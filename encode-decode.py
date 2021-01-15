@@ -16,7 +16,7 @@ root.title("Sneha - Message Encode and Decode")
 #label
 
 Label(root, text ='ENCODE DECODE', font = 'arial 20 bold').pack()
-Label(root, text ='Secret Messaging', font = 'arial 20 bold').pack(side =BOTTOM)
+Label(root, text ='Encrypted Message', font = 'arial 20 bold').pack(side =BOTTOM)
 
 
 #define variables
