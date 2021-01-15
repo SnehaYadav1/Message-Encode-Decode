@@ -1,6 +1,6 @@
 # Message-Encode-Decode
 
-### Secret Mssaging
+### Encrypted Message
 
 ## Prerequisite ##
 
